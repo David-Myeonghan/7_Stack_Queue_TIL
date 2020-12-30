@@ -56,3 +56,12 @@
 ## JS - Single threaded
 
     - Single Threaded = one Call Stack.
+
+## Common Interview Question: Impelent Queue using Stacks
+
+    - Refer to Leetcode Q.232 - Easy when you stack made of arrays
+
+## Outro
+
+    - Pros: Fast Operations, Fast Peek, Ordered
+    - Cons: Slow Lookup
