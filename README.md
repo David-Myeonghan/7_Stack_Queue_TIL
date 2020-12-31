@@ -60,6 +60,12 @@
 ## Common Interview Question: Impelent Queue using Stacks
 
     - Refer to Leetcode Q.232 - Easy when you stack made of arrays
+        - 2 ways to solve:
+        first: just push items in one array, and move the items into another array when peek, or pop to find the first item.
+
+        second: Push items ordered from the very first time. From the second item, move all items into second array, and push the item, and move all items from the seconed into the first array back.
+
+    ** used second way: "https://leetcode.com/submissions/detail/436844764/"
 
 ## Outro
 
